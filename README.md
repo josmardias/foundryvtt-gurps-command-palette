@@ -1,0 +1,1 @@
+# foundryvtt-gurps-command-palette
